@@ -3,24 +3,25 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [viraj.mohile2013@gmail.com](mailto:viraj.mohile2013@gmail.com)
+         [u17ce021@ced.svnit.ac.in](mailto:u17ce021@ced.svnit.ac.in)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+91-8780564976](tel:+91-8780564796)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> C309, Swami Vivekananda Bhavan, S.V.N.I.T. Campus,
 >
-> London
+> Surat, GUJ,
 >
-> United Kingdom
+> India. PO: 395007
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](https://www.linkedin.com/in/viraj-mohile-70560b157/)
+2. [Twitter](https://twitter.com/high_in_entropy)
+3. [GitHub](https://github.com/high-in-entropy)
