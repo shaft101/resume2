@@ -21,6 +21,6 @@ nav:
  - name: "Projects"
    link: "projects"
  - name: "Blog"
-   link: "/Blog/list.md"
+   link: "Blog/list"
  - name: "Contact"
    link: "contact"
