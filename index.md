@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## Viraj Mohile
 
 <img class="profile-picture" src="IMG_20190508_185847.jpg">
 
@@ -12,6 +12,8 @@ I was highly motivated by the works of **Albert Einstein** as a high school grad
 
 This is my online resume. [GitHub](https://github.com/high-in-entropy/resume2)
 
+**---**
+
 ## Education
 
 Year | Examination | University/Board | Institute | CGPA/%
@@ -20,12 +22,13 @@ Year | Examination | University/Board | Institute | CGPA/%
 2016-'17 | Higher Secondary | CBSE | Kendriya Vidyalaya | 90.8%
 2017-'21 | BTech (expected '21) | SVNIT, Surat | SVNIT, Surat | 7.42 (as of 5th semester)
 
+**---**
 
 ## Career Interest
 
 I aim to have a career in the field of **Finance**. I have a good kowledge and understanding of **Portfolio Optimization**, **Risk Management**, **Algorithmic Trading** and **Economics**. Since my freshman year, I have been extensively working with **Python**. I have solved a few real world problems using **Data Analytics**, **Machine Learning**, as well as pure simple **statistics**. My goal is to work in the ever transforming world of **Data Science aided Finance**. 
 
----
+**---**
 
 ## Experience 
 
@@ -71,10 +74,4 @@ An educational startup. Attract investors to gain funding. Social Media
 Marketing. Student Relations Manager. Organize orientation programs over Zoom Meetings for over
 200+ prospective students as well as interns. B2B Advertising.
 
----
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+**---**
