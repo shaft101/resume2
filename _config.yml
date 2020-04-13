@@ -3,7 +3,7 @@ url: "https://ankitsultana.com"
 baseurl: "/resume2"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./svnit-logo.svg"
 
 tracking_id: #
 
