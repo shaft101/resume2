@@ -25,11 +25,14 @@ Year | Examination | University/Board | Institute | CGPA/%
 
 I aim to have a career in the field of **Finance**. I have a good kowledge and understanding of **Portfolio Optimization**, **Risk Management**, **Algorithmic Trading** and **Economics**. Since my freshman year, I have been extensively working with **Python**. I have solved a few real world problems using **Data Analytics**, **Machine Learning**, as well as pure simple **statistics**. My goal is to work in the ever transforming world of **Data Science aided Finance**. 
 
+---
+
 ## Experience 
 
-### Cutting Edge Visionaries (CEV), NIT Surat
+### 1. Cutting Edge Visionaries (CEV), NIT Surat
 * **Head, Aryavarta - The Finance, Business Development and Entrepreneurship division at CEV**
 *Since Jan 2020*
+
 Lead the entire division of the student chapter. My goal is to mentor projects,
 help members discover interests in the field by conducting workshops and talks,
 study jams, discussions and help them recognize the importance and demand of
@@ -37,6 +40,7 @@ data skills in finance.
 
 * **Director, Overall Operation**
 *April 2019*
+
 CEV provides a common platform for students having interests
 in varied range of fields. My goal is to manage the overall
 functioning of the student chapter and make sure it doesn’t
@@ -45,13 +49,13 @@ courses, professors’ talks, etc.
 
 * **Junior Executive**
 *April 2018 - April 2019*
+
 Help CEV conduct, publicize, and plan its events.
 Actively take part in projects, study jams organized and led by
 former heads.
 
----
 
-### Freeco, An Ed-Tech startup based in NIT Jalandhar
+### 2. Freeco, An Ed-Tech startup based in NIT Jalandhar
 *Feb 2019 - April 2019*
 **Intern, Data Analyst**
 An educational start-up. Perform statistical analyses, Report generation,
@@ -59,14 +63,15 @@ Deploying analytical web applications, Automating some of the
 organization’s bulky, time taking tasks using python and make
 processes more efficient.
 
----
 
-### NITovators, An Ed-Tech startup based in NIT Jalandhar
+### 3. NITovators, An Ed-Tech startup based in NIT Jalandhar
 *July 2018 - December 2018*
+**Intern, General Management** 
 An educational startup. Attract investors to gain funding. Social Media
 Marketing. Student Relations Manager. Organize orientation programs over Zoom Meetings for over
 200+ prospective students as well as interns. B2B Advertising.
 
+---
 > To a great mind, nothing is little
 
 ## References
