@@ -21,21 +21,51 @@ Year | Examination | University/Board | Institute | CGPA/%
 2017-'21 | BTech (expected '21) | SVNIT, Surat | SVNIT, Surat | 7.42 (as of 5th semester)
 
 
-## Research Interest
+## Career Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I aim to have a career in the field of **Finance**. I have a good kowledge and understanding of **Portfolio Optimization**, **Risk Management**, **Algorithmic Trading** and **Economics**. Since my freshman year, I have been extensively working with **Python**. I have solved a few real world problems using **Data Analytics**, **Machine Learning**, as well as pure simple **statistics**. My goal is to work in the ever transforming world of **Data Science aided Finance**. 
 
 ## Experience 
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+### Cutting Edge Visionaries (CEV), NIT Surat
+* **Head, Aryavarta - The Finance, Business Development and Entrepreneurship division at CEV**
+*Since Jan 2020*
+Lead the entire division of the student chapter. My goal is to mentor projects,
+help members discover interests in the field by conducting workshops and talks,
+study jams, discussions and help them recognize the importance and demand of
+data skills in finance.
 
+* **Director, Overall Operation**
+*April 2019*
+CEV provides a common platform for students having interests
+in varied range of fields. My goal is to manage the overall
+functioning of the student chapter and make sure it doesn’t
+derail off its objectives. Help conducting winter schools,
+courses, professors’ talks, etc. 
 
-Here is a horizontal rule
+* **Junior Executive**
+*April 2018 - April 2019*
+Help CEV conduct, publicize, and plan its events.
+Actively take part in projects, study jams organized and led by
+former heads.
 
 ---
 
-Here is a blockquote
+### Freeco, An Ed-Tech startup based in NIT Jalandhar
+*Feb 2019 - April 2019*
+**Intern, Data Analyst**
+An educational start-up. Perform statistical analyses, Report generation,
+Deploying analytical web applications, Automating some of the
+organization’s bulky, time taking tasks using python and make
+processes more efficient.
+
+---
+
+### NITovators, An Ed-Tech startup based in NIT Jalandhar
+*July 2018 - December 2018*
+An educational startup. Attract investors to gain funding. Social Media
+Marketing. Student Relations Manager. Organize orientation programs over Zoom Meetings for over
+200+ prospective students as well as interns. B2B Advertising.
 
 > To a great mind, nothing is little
 
