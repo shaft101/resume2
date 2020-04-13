@@ -21,6 +21,6 @@ nav:
  - name: "Projects"
    link: "projects"
  - name: "Blog"
-   link: "Blog/list"
+   link: "bloglist"
  - name: "Contact"
    link: "contact"
