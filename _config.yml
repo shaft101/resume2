@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/high-in-entropy"
-footer_text: "Viraj Mohile."
+footer_text: "Viraj Mohile"
 
 sass:
     style: compressed
@@ -18,9 +18,9 @@ sass:
 nav:
  - name: "About"
    link: "/Resume/"
- - name: "Resume"
-   link: "resume.pdf"
  - name: "Projects"
    link: "projects"
+ - name: "Blog"
+   link: "/Blog/"
  - name: "Contact"
    link: "contact"
