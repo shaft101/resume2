@@ -18,6 +18,8 @@ sass:
 nav:
  - name: "About"
    link: "/resume2/"
+ - name: "Certifications"
+   link: "certifications"
  - name: "Projects"
    link: "projects"
  - name: "Blog"
